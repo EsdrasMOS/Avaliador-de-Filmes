@@ -1,0 +1,10 @@
+# Dependências principais para interação com AWS DynamoDB e gerenciamento de variáveis de ambiente
+boto3>=1.34.0
+python-dotenv>=1.0.0
+
+# Bibliotecas opcionais para melhorar a experiência no terminal (formatação de cores e tabelas)
+rich>=13.7.0
+
+# Para inciar a instalação com a segurança da versão instalada, utilize os comandos:
+# pip install -r requirements.txt
+# pip freeze > requirements.txt
